@@ -7,6 +7,8 @@
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7B93E?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img alt="sql" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  
 </p>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
