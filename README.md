@@ -47,7 +47,7 @@
 
 <h3>Donde contactarme</h3>
 <p>
-  <a href="https://personal-portfolio-0tdn.onrender.com/" alt="portfolio" target="_blank">
+  <a href="https://alexcostai.github.io/" alt="portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-3d3d3d?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/alexcostai" alt="LinkedIn" target="_blank">
