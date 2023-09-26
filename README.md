@@ -3,10 +3,9 @@
 
 <p>Soy Alex Costa, Desarrollador Front-End viviendo en <img src="https://github.com/alexcostai/alexcostai/assets/29156155/6166eb47-3b2a-473e-833d-71d448f6c1b8" width="13"/> <b> Argentina, Buenos Aires</b>.
 
-<h3>Lenguajes y herramientas que trabajo o trabajé</h3>
+<h3>Lenguajes y herramientas</h3>
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7B93E?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
   <img alt="sql" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   
 </p>
@@ -17,11 +16,11 @@
   <img alt="expo" src="https://img.shields.io/badge/-Expo-000000?style=flat-square&logo=expo&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/-NextJs-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="flutter" src="https://img.shields.io/badge/-Flutter-45b8d8?style=flat-square&logo=flutter&logoColor=white" />
 </p>
 <p>
   <img alt="css" src="https://img.shields.io/badge/-CSS-45b8d8?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="Material UI" src="https://img.shields.io/badge/-Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" />
   <img alt="BootStrap" src="https://img.shields.io/badge/-Bootstrap-764ABC?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 <p>
